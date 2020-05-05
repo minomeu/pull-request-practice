@@ -1,1 +1,1 @@
-mintest
+mintest.test
